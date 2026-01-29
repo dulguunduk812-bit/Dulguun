@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to Internet Technology Fundamentals<title>
+    <title>Welcome to M U S I C WRLD<title>
 </head>
 <body>
     <h1>Welcome to MUSIC WRLD 1</h1>
