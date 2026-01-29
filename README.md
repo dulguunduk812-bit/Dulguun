@@ -5,8 +5,7 @@
     <title>Welcome to Internet Technology Fundamentals<title>
 </head>
 <body>
-    <h1>Welcome to Laboratory 1</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqua.</p>
+    <h1>Welcome to MUSIC WRLD 1</h1>
+    <p>дуу бол амьдрал.</p>
 </body>
 </html>
