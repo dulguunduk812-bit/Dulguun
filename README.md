@@ -6,6 +6,6 @@
 </head>
 <body>
     <h1>Welcome to MUSIC WRLD 1</h1>
-    <p>дуу бол амьдрал.</p>
+    <p>дуу бол амьдрал. music is life</p>
 </body>
 </html>
